@@ -1,2 +1,2 @@
 # Web-scraping
-A series application of web-scraping
+A series applications of web-scraping
